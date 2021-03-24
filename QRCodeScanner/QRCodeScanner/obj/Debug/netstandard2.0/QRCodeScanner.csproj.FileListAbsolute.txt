@@ -1,0 +1,14 @@
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\bin\Debug\netstandard2.0\QRCodeScanner.deps.json
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\bin\Debug\netstandard2.0\QRCodeScanner.dll
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\bin\Debug\netstandard2.0\ref\QRCodeScanner.dll
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\bin\Debug\netstandard2.0\QRCodeScanner.pdb
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\QRCodeScanner.csprojAssemblyReference.cache
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\QRCodeScanner.AssemblyInfoInputs.cache
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\QRCodeScanner.AssemblyInfo.cs
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\QRCodeScanner.csproj.CoreCompileInputs.cache
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\XamlC.stamp
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\QRCodeScanner.dll
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\ref\QRCodeScanner.dll
+D:\C# Studies\LearnSomeShit\QRCodeScanner\QRCodeScanner\QRCodeScanner\obj\Debug\netstandard2.0\QRCodeScanner.pdb

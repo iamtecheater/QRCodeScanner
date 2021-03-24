@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0jI23CX86uJyrwK403bblf3m1kVBHoCEqSHR17zRXi/L05/+PNHwHMtJCJInqE77XF1WhZ2TG1J2Mfe5PMsOA==",
+  "success": true,
+  "projectFilePath": "D:\\C# Studies\\LearnSomeShit\\QRCodeScanner\\QRCodeScanner\\QRCodeScanner\\QRCodeScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bran\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bran\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Bran\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bran\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Bran\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Bran\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Bran\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
